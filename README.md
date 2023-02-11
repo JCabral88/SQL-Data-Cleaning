@@ -8,4 +8,4 @@ Data Source 🧭
 
 Following “Data Analyst Portfolio Project” from Alex The Analyst Youtube page. 👨‍🎓
 
-([https://www.youtube.com/@AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst))
+[https://www.youtube.com/@AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst)
